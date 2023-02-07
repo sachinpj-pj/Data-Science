@@ -1,0 +1,18 @@
+Assignment 29th Jan 
+1)Guido van Rossum
+2)Object-oriented programming and structured programming
+3)Yes
+4).py
+5)Python is a Interpreted language
+6)a module,a function and body etc
+7)## (double hash for commenting)
+8)sys.version
+9)lambda
+10)PIP-preferred installer program
+11)print,type,input,max,random,min,append,pop,replaceand etc
+12)79 characters
+13)data science,ML developer,Web developer and many more
+14)install python from offical website of python(i.e from google) 
+and setting of variable is by going to properties->Advanced system->Environment varibles->
+click on path varible-> click on new and enter python directory
+15)yes, it is required
